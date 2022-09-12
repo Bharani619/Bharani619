@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://bharanishwaran-portfolio.netlify.app/](https://bharanishwaran-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bharanishwaran-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@bharanish619](https://medium.com/@bharanish619)
 
